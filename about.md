@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello! My name is Evelyn, and I am a fourth year student at UCLA majoring in Cognitive Science with a Specialization in Computing. I'm interested in UX/UI design, data science, as well as software and game development. In my free time, I enjoy cooking and playing video games.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[evelynhu@ucla.edu](mailto:evelynhu@ucla.edu)
